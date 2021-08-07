@@ -1,0 +1,2 @@
+# MakeSwiftFrameworkDemo
+制作swift的framework的Demo（内含有自动合并的shell脚本）
