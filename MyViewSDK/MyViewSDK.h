@@ -1,9 +1,4 @@
-//
-//  MyViewSDK.h
-//  MyViewSDK
-//
-//  Created by 林文俊 on 2021/8/7.
-//
+
 
 #import <Foundation/Foundation.h>
 
