@@ -1,10 +1,4 @@
-//
-//  UIView+TransitionColor.swift
-//  Test
-//
-//  Created by 林文俊 on 2020/1/14.
-//  Copyright © 2020 林文俊. All rights reserved.
-//
+
 
 import UIKit
 
